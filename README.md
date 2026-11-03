@@ -4,7 +4,7 @@ Aplicación web para consultar y administrar la carta de un restaurante. Los com
 
 Desarrollo íntegramente realizado por [Vicente Marco](https://github.com/vCentDev), desde la interfaz Angular hasta la integración con Supabase para datos y autenticación. El proyecto está **en desarrollo y pendiente de entrega**; todavía no hay una URL pública en producción.
 
-Este repositorio presenta el proyecto y su evolución. El código de la aplicación se mantiene por separado.
+> Este repositorio contiene la presentación de MenuManager, con capturas y vídeos de sus funcionalidades. El código fuente se mantiene en un repositorio privado, ya que la aplicación se está desarrollando para un cliente.
 
 ## Vista de la aplicación
 
@@ -62,10 +62,6 @@ He desarrollado la aplicación completa: carta pública, panel, autenticación, 
 La consulta de la carta y la edición de precios y disponibilidad están implementadas. Quedan pendientes el alta, la edición completa y el borrado de platos, la gestión de traducciones y alérgenos desde formularios y la gestión de secciones. La pestaña Secciones todavía muestra un mensaje provisional.
 
 También están pendientes las migraciones y los datos iniciales para reproducir la base de datos, las pruebas automatizadas de los recorridos críticos y la integración continua.
-
-La compilación de producción se comprobó el **31 de octubre de 2026** y terminó correctamente, con avisos por los presupuestos de tamaño del bundle inicial y los estilos del panel. El proyecto configura Jasmine y Karma, pero todavía no dispone de una suite de pruebas versionada; la prueba local revisada compiló, aunque no pudo ejecutarse porque Karma no consiguió iniciar ChromeHeadless.
-
-La accesibilidad requiere una revisión integral. Hay una limitación conocida en el acceso mediante Tab al control de mostrar contraseña del login. Tampoco se presenta el estado actual como una validación exhaustiva de comportamiento o rendimiento.
 
 ## Autor y recursos
 

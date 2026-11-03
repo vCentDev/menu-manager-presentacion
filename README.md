@@ -16,8 +16,8 @@ Carta en escritorio con la interfaz en inglés: búsqueda, selección de alérge
 
 Dos recorridos para conocer la carta pública y el acceso a la administración:
 
-- **[Ver vídeo de la carta pública](videos/menu-manager-carta.mp4)** — presentación del funcionamiento de la carta.
-- **[Ver vídeo del login y la administración](videos/menu-manager-login-admin.mp4)** — recorrido por el acceso y el panel administrativo.
+- **[Ver vídeo de la carta pública](https://github.com/user-attachments/assets/ab177397-51f7-490f-87f9-3db7471c0916)** — presentación del funcionamiento de la carta.
+- **[Ver vídeo del login y la administración](https://github.com/user-attachments/assets/45ecbaa0-ee11-4daf-b2b7-b2360e13a22b)** — recorrido por el acceso y el panel administrativo.
 
 ## Alcance implementado
 
